@@ -19,7 +19,7 @@
 -Nodule_Modules = Pasta com os pacotes baixados;
 -Telas = Pasta que contem os arquivos JS. das 2 telas disponiveis do app;
 -.Gitgnore = Arquivo para decidir o que deve ou não ser ignorado no github;
--App.js = arquivo que serve como "Porta de entrada" do aplicativo;
+-App.js = Arquivo responsável pela configurações de rotas;
 -app.json = Pasta pré criada;
 -index.js = Pasta pré criada;
 -package-lock.json = Pasta pré criada;
