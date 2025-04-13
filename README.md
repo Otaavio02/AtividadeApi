@@ -1,6 +1,6 @@
 # AtividadeApi
 
-#Guia para inicialização do projeto
+# Guia para inicialização do projeto
 
 -Baixar o arquivo .ZIP no repositório git hub
 -Extrair os arquivos
@@ -12,7 +12,7 @@
 -Se quiser abrir no celular, é necessário ter um emulador no computador (Se tiver, apenas aperta A) ou baixar o Expo Go em um dispositivo móvel e ler o QR code
 -Se quiser abrir na Web apenas aperte W
 
-Estrutura do projeto
+# Estrutura do projeto
 -Expo = Pasta pré criada do expo
 -API = Pasta que contem o código para a implementação da API de pokemons
 -Assets = Pasta de imagens pré criada
